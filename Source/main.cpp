@@ -117,9 +117,6 @@ int main()
 	char StartVertex = 'c';
 	
 
-	//TODO: Find shortest path
-		//Follow along to https://www.youtube.com/watch?v=pVfj6mxhdMw&list=PLPUbh_UILtZViZZvbAMKil_f3Y2I5jFl7&index=1&t=241s
-
 	//Create a table
 
 	std::vector<DColumn> Table;
